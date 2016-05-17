@@ -1,2 +1,2 @@
 # eSchool.Website
-eSchool website
+eSchool web site 
